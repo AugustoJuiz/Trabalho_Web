@@ -1,0 +1,150 @@
+[
+  {
+    "idUser": 129031,
+    "nome": "AAAAAAA",
+    "dataNascimento": "01/01/2000",
+    "rua": "bbbbbbbbbbb",
+    "bairro": "fffffffff",
+    "email": "adadada@f.com",
+    "senha": "123",
+    "assets": [
+      {
+        "idAsset": 129031,
+        "data": "01/01/2024",
+        "sigla": "PTR4",
+        "setor": "Petróleo",
+        "preco": 100,
+        "cotas": 2000
+      },
+      {
+        "idAsset": "24046eb6b25d5e725d69207f83fcc76d",
+        "data": "01/01/2024",
+        "sigla": "PTR4",
+        "setor": "Petróleo",
+        "preco": 100,
+        "cotas": 2
+      }
+    ]
+  },
+  {
+    "idUser": "4a42eacc6c1c2f8cd396f514b8f1075d",
+    "nome": "agust]=p--p",
+    "dataNascimento": "2024-05-30",
+    "rua": "Avenida Manoel Pedro Pimentel",
+    "bairro": "Continental",
+    "email": "hygygygy@gygygyg",
+    "senha": "123",
+    "assets": []
+  },
+  {
+    "idUser": "763c9773b8dab61698ab4b81536911b2",
+    "nome": "Erick",
+    "dataNascimento": "2024-03-28",
+    "rua": "Rua Coronel Francisco Braz",
+    "bairro": "Pinheirinho",
+    "email": "erick@gmail.com",
+    "senha": "AAA",
+    "assets": [
+      {
+        "idAsset": "b5535ace57a9af3b3e6f778bc5567aa2",
+        "data": "12/05/1212",
+        "sigla": "AAA",
+        "setor": "n sei",
+        "preco": 555,
+        "cotas": 545
+      },
+      {
+        "idAsset": "c754447212f9357e2cdb388c3c558439",
+        "data": "2024-06-27",
+        "sigla": "TESTE4",
+        "setor": "Ambiente de Teste",
+        "preco": 159,
+        "cotas": 258
+      },
+      {
+        "idAsset": "a6aee5de904195a1386e1f4e6780fa10",
+        "data": "02/02/2024",
+        "sigla": "APPL5",
+        "setor": "Varejo",
+        "preco": 456345,
+        "cotas": 345345
+      }
+    ]
+  },
+  {
+    "idUser": "6a6fc81818d5625446e9d38ef7efa1b1",
+    "nome": "Adriano",
+    "dataNascimento": "2001-07-17",
+    "rua": "Rua Doutor Domiciano Costa Moreira",
+    "bairro": "Pinheirinho",
+    "email": "a@gmail.com",
+    "senha": "a123",
+    "assets": [
+      {
+        "idAsset": "dadffb61b25a579933db7f58816f3923",
+        "data": "2023-07-16",
+        "sigla": "PETR4",
+        "setor": "Petróleo",
+        "preco": 16,
+        "cotas": 100
+      },
+      {
+        "idAsset": "a02bb2b54325ecd9b35529016c837be5",
+        "data": "2024-02-11",
+        "sigla": "VVAR3",
+        "setor": "Varejo",
+        "preco": 10,
+        "cotas": 250
+      }
+    ]
+  },
+  {
+    "idUser": "a8c8de713e02154b38fcee3108235b5f",
+    "nome": "TESTE ERICK BREJUDO",
+    "dataNascimento": "2024-03-28",
+    "rua": "Rua Moisés Luize",
+    "bairro": "Cruzeiro",
+    "email": "erick@gmail.com",
+    "senha": "TESTE1",
+    "assets": []
+  },
+  {
+    "idUser": "fdaac82d735cff02e196a2a290e9b630",
+    "nome": "plays muniz",
+    "dataNascimento": "2000-10-18",
+    "rua": "Rua Nelson Horácio Conceição",
+    "bairro": "Jardim Las Palmas",
+    "email": "jogadasplays@gmail.com",
+    "senha": "larissa",
+    "assets": []
+  },
+  {
+    "idUser": "00bbf2278b559a11f1672866ad4bde59",
+    "nome": "aaaaaaaaaaaa",
+    "dataNascimento": "01/01/2000",
+    "rua": "bbbbbbbbbbb",
+    "bairro": "fffffffff",
+    "email": "fdfdf@dfdfdf.com",
+    "senha": "123",
+    "assets": []
+  },
+  {
+    "idUser": "f0825c35ab792013443355df992e1b9e",
+    "nome": "Gabriel Coelho Maia",
+    "dataNascimento": "2002-05-29",
+    "rua": "Rodovia dos Imigrantes",
+    "bairro": "Água Funda",
+    "email": "gabrielcmaia@gmail.com",
+    "senha": "555",
+    "assets": [
+      {
+        "idAsset": "51cc92e9d94ec8c8287fb8bead3b8de1",
+        "data": "2024-07-06",
+        "sigla": "AME3",
+        "setor": "Varejo",
+        "preco": 200,
+        "cotas": 300
+      }
+    ]
+  }
+]

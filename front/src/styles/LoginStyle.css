@@ -1,0 +1,81 @@
+#root {
+  width: 100%;
+}
+
+#new-user:hover {
+  margin-top: 10px;
+  text-decoration: underline;
+}
+
+.login-container {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 2rem;
+  background-color: #1C2341; /* Cor de fundo do container */
+  border-radius: 10px;
+  color: white;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.login-container h2 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+  color: #00A8E1; /* Cor do título */
+}
+
+.input-group {
+  margin-bottom: 1rem;
+}
+
+.input-group label {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: #00A8E1; /* Cor do rótulo */
+}
+
+.input-group input {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #2A3358;
+  border-radius: 5px;
+  background-color: #2A3358; /* Cor de fundo do input */
+  color: white;
+}
+
+.input-group input:focus {
+  border-color: #007bff;
+  outline: none;
+}
+
+.input-group p.erro {
+  color: red; /* Cor da mensagem de erro */
+  font-size: 0.875rem;
+  margin-top: 0.5rem;
+}
+
+button {
+  width: 100%;
+  padding: 0.75rem 1.5rem;
+  background-color: #00A8E1; /* Cor de fundo do botão */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+button:hover {
+  background-color: #007BA7; /* Cor do botão ao passar o mouse */
+}
+
+a#home {
+  display: block;
+  margin-top: 2rem;
+  color: #00A8E1; /* Cor do link para Home */
+  text-decoration: none;
+  text-align: center;
+}
+
+a#home:hover {
+  text-decoration: underline;
+}
