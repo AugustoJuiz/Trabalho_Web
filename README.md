@@ -23,7 +23,8 @@ Requisitos
 Clone o repositório
 bash
 # clonar repositório
-git clone https://github.com/Erick-Bonifacio/Final-Web-Project.git
+git clone https://github.com/AugustoJuiz/Trabalho_Web.git
+
 
 
 Instalar dependências no back
@@ -63,6 +64,6 @@ Daniel Pires Domingueti
 Adriano Maretti
 
 # Contatos
-www.linkedin.com/in/erick-bonifacio-b7a898273
+https://www.linkedin.com/in/augusto-juiz-ribeiro-397677266/
 
-erickalvarengabonifacio@hotmail.com 
+augustojuizribeiro@gmail.com 
